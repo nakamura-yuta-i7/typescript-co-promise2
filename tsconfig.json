@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"target": "ES6",
+		"module": "amd"
+	},
+	"compileOnSave": false,
+	"exclude": [
+		"node_modules"
+	]
+}
